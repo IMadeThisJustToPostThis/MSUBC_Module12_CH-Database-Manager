@@ -1,7 +1,14 @@
-// extras:
+// post-MVP:
+// get env to work
+// change connection directory to config
+// different host instead of localhost when pushing to heroku
+// update employee manager
 // make delete methods
 // allow a null value to be passed in for manager when making a new employee
 // make a getManagers method
+// get a salary total from within a department
+// view employees by department and manager
+// make quit option
 
 // file that puts it all together utilizing a prompt inquirer for inputting data
 const { prompt } = require('inquirer'); // import prompt inquirer
@@ -186,7 +193,7 @@ function updateEmployeeRolePrompt() {
                     const rleChoices = result.map(({ role_id, role_title }) => ({
                         value: role_id,
                         name: role_title
-                    }));
+                    }))
                     prompt([
                         {
                             type: 'list',

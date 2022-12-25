@@ -33,4 +33,4 @@
   ## Tutorial
   click on the image below to view the tutorial video
   
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_bQDcrVZOCFA/0.jpg)](https://www.youtube.com/watch?v=_bQDcrVZOCFA)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bQDcrVZOCFA/0.jpg)](https://www.youtube.com/watch?v=bQDcrVZOCFA)

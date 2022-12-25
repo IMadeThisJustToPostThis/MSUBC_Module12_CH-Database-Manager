@@ -1,7 +1,5 @@
 // post-MVP:
 // get env to work
-// change connection directory to config
-// different host instead of localhost when pushing to heroku
 // update employee manager
 // make delete methods
 // allow a null value to be passed in for manager when making a new employee
@@ -9,6 +7,9 @@
 // get a salary total from within a department
 // view employees by department and manager
 // make quit option
+
+// i rafactored a lot of this referencing the completed "main" file provided by instructors, it looks similair in a lot of ways
+// but i realized that's because a lot of this is boilerplate. I tried my best to make it unique while still learning from the provided example
 
 // file that puts it all together utilizing a prompt inquirer for inputting data
 const { prompt } = require('inquirer'); // import prompt inquirer

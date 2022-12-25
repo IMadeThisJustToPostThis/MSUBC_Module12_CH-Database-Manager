@@ -1,6 +1,6 @@
-  # MSUBC_Module10_CH Team Generator by Mateusz Zielinski
+  # MSUBC_Module12_CH Database Manager by Mateusz Zielinski
   ## Description
-  This program generates a .html page containing all user-inputted employees that are part of a specific project team
+  This program contains a database of departments, roles, and employees, and contains prompts to edit that respective data
   
   ![Alt text](EXAMPLE.png)
   ## License
@@ -16,14 +16,14 @@
   ## Usage
   - open the project in vscode or another compatible editor
   - right click on 'index.js' and select 'open in integrated terminal'
-  - in the command line type in 'node index.js' - answer all of the prompts 
-  - once all prompts have been answered, the generated .html file should show up in the 'dist' folder
+  - in the command line type in 'npm i' then 'npm start' - now you can select which prompt you need
+  - if you are adding or updating, answer the sub-prompts and an entry will be added/updated
   ## Installation
   - open gitbash
   - navigate to the desired parent folder 
-  - type into gitbash 'git clone https://github.com/IMadeThisJustToPostThis/MSUBC_Module10_CH-Team-Generator.git'
+  - type into gitbash 'git clone https://github.com/IMadeThisJustToPostThis/MSUBC_Module12_CH-Database-Manager.git'
   ## Testing
-  there are tests for each employee object going over the data stored in each object
+  no tests
   ## Contributing
   contibute however you want i don't care
   ## Questions
@@ -33,4 +33,4 @@
   ## Tutorial
   click on the image below to view the tutorial video
   
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_d2GumnGMuQ/0.jpg)](https://www.youtube.com/watch?v=_d2GumnGMuQ)
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_bQDcrVZOCFA/0.jpg)](https://www.youtube.com/watch?v=_bQDcrVZOCFA)
